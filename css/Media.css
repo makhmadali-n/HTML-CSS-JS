@@ -1,0 +1,484 @@
+
+@media all and (max-width:1024px) {
+    .card {
+        flex-wrap: wrap;
+    }
+
+    .card-one:nth-of-type(3) {
+        margin-top: 15px;
+    }
+
+    .main-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .main-title {
+        max-width: 100%;
+    }
+
+    .card-one {
+        max-width: 333px;
+    }
+
+    .img-card-two {
+        width: 64px;
+        top: -37px;
+        left: 144px;
+    }
+
+}
+
+
+@media all and (max-width: 857px) {
+    .form {
+        width: 450px;
+        padding-left: 0px;
+    }
+
+    .form {
+        width: 420px;
+        padding: 0 auto;
+    }
+
+    .card-one {
+        max-width: 375px;
+    }
+}
+
+@media all and (max-width: 767px) {
+    
+    .main-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .main-title {
+        min-width: 96%;
+        padding: 10px 6px;
+    }
+
+    .contacts {
+        flex-wrap: wrap;
+    }
+
+    .sub-title {
+        font-size: 28px;
+    }
+
+    .card-one {
+        max-width: 372px;
+        margin-top: 15px;
+    }
+
+    .card-one:nth-of-type(3) {
+        margin-top: 15px;
+    }
+
+    .card-one:nth-of-type(2) {
+        margin-top: 15px;
+    }
+
+    .img-card-two {
+        width: 70px;
+        top: -38px;
+        left: 155px;
+    }
+
+    .card-one {
+        max-width: 365px;
+    }
+
+}
+@media all and (min-width: 426px){
+    .name {
+        width: 240px;
+        height: 40px;
+        margin-right: 22px;
+    }
+
+    .header-btn {
+        width: 180px;
+        height: 40px;
+    }
+
+    .email{
+        width: 240px;
+        height: 40px;
+        margin-top: 15px;
+    }
+}
+
+@media all and (max-width: 425px) {
+    .logo {
+        font-size: 35px;
+    }
+
+    .title {
+        font-size: 46px;
+    }
+
+    .sub-title {
+        font-size: 21px;
+    }
+    
+    .name {
+        width: 240px;
+        height: 40px;
+        margin-right: 0px;
+    }
+
+    .header-btn {
+        width: 180px;
+        height: 40px;
+    }
+
+    .email{
+        width: 240px;
+        height: 40px;
+        margin-top: 15px;
+    }
+
+    .form {
+        width: 390px;
+        padding: 0;
+    }
+
+    .form .submit {
+        max-width: 155px;
+        margin-left: 115px;
+    }
+
+    .block-title {
+        font-size: 13px;
+    }
+
+    .footer-block span {
+        font-size: 13px;
+    }
+
+    .accordion-title {
+        font-size: 14px;
+    }
+
+    .article-title h3 {
+        font-size: 34px;
+    }
+
+    .footer-title {
+        font-size: 34px;
+    }
+
+    .img-card-two {
+        width: 65px;
+        border: solid white 5px;
+        top: -37px;
+        left: 190px;
+        
+    }
+
+    .card-title h5 {
+        font-size: 27px;
+    }
+
+    .main {
+        margin-top: 40px;
+        margin-bottom: 0px;
+    }
+
+    .main-text {
+        font-size: 22px;
+    }
+
+    .main-subtitle {
+        font-size: 16px;
+    }
+
+    li {
+        font-size: 16px;
+    }
+
+    .foot-title {
+        font-size: 16px;
+    }
+
+    .section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .accordion-wrapper {
+        margin-bottom: 40px;
+    }
+
+    .wrapper {
+        padding: 40px 0px;
+    }
+
+    .social-net img {
+        margin: 20px 7px;
+    }
+
+    .contacts {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .address {
+        padding-left: 90px;
+        padding-top: 25px;
+    }
+
+    .card-one {
+        max-width: 420px;
+    }
+    
+}
+
+@media all and (max-width: 375px) {
+    .logo {
+        font-size: 33px;
+    }
+
+    .title {
+        font-size: 41px;
+    }
+
+    .sub-title {
+        font-size: 20px;
+    }
+    
+    .name {
+        width: 230px;
+        height: 37px;
+        margin-right: 0px;
+    }
+
+    .header-btn {
+        width: 165px;
+        height: 37px;
+    }
+
+    .email{
+        width: 230px;
+        height: 37px;
+        margin-top: 15px;
+    }
+
+    .form {
+        width: 325px;
+        padding: 0;
+    }
+
+    .form .submit {
+        max-width: 155px;
+        margin-left: 85px;
+    }
+
+    .block-title {
+        font-size: 13px;
+    }
+
+    .footer-block span {
+        font-size: 13px;
+    }
+
+    .accordion-title {
+        font-size: 14px;
+    }
+
+    .article-title h3 {
+        font-size: 30px;
+    }
+
+    .footer-title {
+        font-size: 30px;
+    }
+
+    .img-card-two {
+        width: 60px;
+        border: solid white 4px;
+        top: -30px;
+        left: 167px;
+    }
+
+    .card-title h5 {
+        font-size: 27px;
+    }
+
+    .main {
+        margin-top: 40px;
+        margin-bottom: 0px;
+    }
+
+    .main-text {
+        font-size: 22px;
+    }
+
+    .main-subtitle {
+        font-size: 16px;
+    }
+
+    li {
+        font-size: 16px;
+    }
+
+    .foot-title {
+        font-size: 16px;
+    }
+
+    .section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .accordion-wrapper {
+        margin-bottom: 40px;
+    }
+
+    .wrapper {
+        padding: 40px 0px;
+    }
+
+    .contacts {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .address {
+        padding-left: 70px;
+        padding-top: 25px;
+    }
+}
+
+
+@media all and (max-width: 320px) {
+
+    .logo {
+        font-size: 30px;
+    }
+
+    .title {
+        font-size: 36px;
+    }
+
+    .sub-title {
+        font-size: 20px;
+    }
+    
+    .name {
+        width: 230px;
+        height: 37px;
+        margin-right: 0px;
+    }
+
+    .header-btn {
+        width: 165px;
+        height: 37px;
+    }
+
+    .email{
+        width: 230px;
+        height: 37px;
+        margin-top: 15px;
+    }
+
+    .form {
+        width: 285px;
+        padding: 0;
+    }
+
+    .form .submit {
+        max-width: 155px;
+        margin-left: 65px;
+    }
+
+    .block-title {
+        font-size: 13px;
+    }
+
+    .footer-block span {
+        font-size: 13px;
+    }
+
+    .accordion-title {
+        font-size: 14px;
+    }
+
+    .article-title h3 {
+        font-size: 30px;
+    }
+
+    .footer-title {
+        font-size: 30px;
+    }
+
+    .img-card-two {
+        width: 50px;
+        border: solid white 3px;
+        top: -30px;
+        left: 147px;
+    }
+
+    .card-title h5 {
+        font-size: 27px;
+    }
+
+    .main {
+        margin-top: 40px;
+        margin-bottom: 0px;
+    }
+
+    .main-text {
+        font-size: 22px;
+    }
+
+    .main-subtitle {
+        font-size: 16px;
+    }
+
+    li {
+        font-size: 16px;
+    }
+
+    .foot-title {
+        font-size: 16px;
+    }
+
+    .section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .accordion-wrapper {
+        margin-bottom: 40px;
+    }
+
+    .wrapper {
+        padding: 40px 0px;
+    }
+
+    .contacts {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .address {
+        padding-left: 40px;
+        padding-top: 25px;
+    }
+    
+    body .menu {
+        overflow: hidden;
+    }
+
+    .menu.active {
+        overflow: auto;
+    }
+
+    .menu-btn {
+        position: fixed;
+        top: 0%;
+        left: 80%;
+    }
+}
